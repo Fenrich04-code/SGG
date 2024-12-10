@@ -1,1 +1,17 @@
-[{"nome":"camisa integral medica","preco":40,"quantidade":40},{"nome":"creatina MAX titânium","preco":240,"quantidade":20},{"nome":"whey do toguro","preco":90,"quantidade":40}]
+[
+  {
+    "nome": "camisa integral medica",
+    "preco": 42.4,
+    "quantidade": 40
+  },
+  {
+    "nome": "creatina MAX titânium",
+    "preco": 254.4,
+    "quantidade": 20
+  },
+  {
+    "nome": "whey do toguro",
+    "preco": 95.4,
+    "quantidade": 40
+  }
+]

@@ -15,7 +15,7 @@
     "marca": "Integral Medica",
     "sabor": "Cafeina",
     "peso": 1,
-    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/creatina.jpg"
+    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/Creatina.jpg"
   },
   {
     "nome": "PreTreino",
@@ -24,6 +24,6 @@
     "marca": "psychotic",
     "sabor": "padrao",
     "peso": 1,
-    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/pretreino.jpg"
+    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/Pretreino.jpg"
   }
 ]

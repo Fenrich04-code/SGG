@@ -7,5 +7,14 @@
     "sabor": "padão",
     "peso": 3,
     "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/whey.jpg"
+  },
+  {
+    "nome": "pre treino",
+    "preco": 90,
+    "quantidade": 50,
+    "marca": "psychotic",
+    "sabor": "padrao",
+    "peso": 1,
+    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/pre_treino.jpg"
   }
 ]

@@ -25,5 +25,13 @@
     "sabor": "padrao",
     "peso": 1,
     "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/Pretreino.jpg"
+  },
+  {
+    "nome": "creatinaMXT",
+    "preco": 90,
+    "quantidade": 90,
+    "marca": "MAX",
+    "sabor": "padrão",
+    "peso": 3
   }
 ]

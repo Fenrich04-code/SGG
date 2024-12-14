@@ -27,12 +27,12 @@
     "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/Pretreino.jpg"
   },
   {
-    "nome": "creatina",
+    "nome": "creatinaMXT",
     "preco": 90,
     "quantidade": 90,
     "marca": "MAX titânium",
     "sabor": "padrão",
     "peso": 3,
-    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/creatina.jpg"
+    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/creatinamxt.jpg"
   }
 ]

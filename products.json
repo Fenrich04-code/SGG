@@ -25,14 +25,5 @@
     "sabor": "padrao",
     "peso": 1,
     "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/Pretreino.jpg"
-  },
-  {
-    "nome": "WheyProtein",
-    "preco": 94.08,
-    "quantidade": 20,
-    "marca": "Integral Medica",
-    "sabor": "cholocate",
-    "peso": 3,
-    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/wheyprotein.jpg"
   }
 ]

@@ -6,7 +6,8 @@
     "marca": "Espartanos",
     "sabor": "padrao",
     "peso": 3,
-    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/whey.jpg"
+    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/whey.jpg",
+    "originalPreco": 387.072
   },
   {
     "nome": "Creatina",
@@ -15,7 +16,8 @@
     "marca": "Integral Medica",
     "sabor": "Cafeina",
     "peso": 1,
-    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/Creatina.jpg"
+    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/Creatina.jpg",
+    "originalPreco": 197.40672
   },
   {
     "nome": "PreTreino",
@@ -24,6 +26,7 @@
     "marca": "psychotic",
     "sabor": "padrao",
     "peso": 1,
-    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/Pretreino.jpg"
+    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/Pretreino.jpg",
+    "originalPreco": 96.768
   }
 ]

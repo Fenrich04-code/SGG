@@ -1,7 +1,7 @@
 [
   {
     "nome": "whey",
-    "preco": 487.71072,
+    "preco": 643.7781504,
     "quantidade": 30,
     "marca": "Espartanos",
     "sabor": "padrao",
@@ -11,7 +11,7 @@
   },
   {
     "nome": "Creatina",
-    "preco": 248.73246719999997,
+    "preco": 328.32685670399997,
     "quantidade": 22,
     "marca": "Integral Medica",
     "sabor": "Cafeina",
@@ -21,7 +21,7 @@
   },
   {
     "nome": "PreTreino",
-    "preco": 121.92768,
+    "preco": 160.9445376,
     "quantidade": 50,
     "marca": "psychotic",
     "sabor": "padrao",

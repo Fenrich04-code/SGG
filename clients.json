@@ -6,5 +6,13 @@
     "address": "r fco melo 392",
     "credit": "200.00",
     "initialCredit": "200.00"
+  },
+  {
+    "name": "cliente2",
+    "email": "cliente2@email.com",
+    "phone": "123321",
+    "address": "rua cliente 2 ",
+    "credit": "100.00",
+    "initialCredit": "100.00"
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "nome": "whey",
-    "preco": 387.072,
-    "quantidade": 30,
-    "marca": "Espartanos",
-    "sabor": "padrao",
-    "peso": 3,
-    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/whey.jpg",
-    "originalPreco": 387.072
-  },
-  {
     "nome": "Creatina",
     "preco": 197.40672,
     "quantidade": 20,

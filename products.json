@@ -18,15 +18,5 @@
     "peso": 1,
     "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/Pretreino.jpg",
     "originalPreco": 96.768
-  },
-  {
-    "nome": "VO2 WHEY BAR - 30G/UND. - INTEGRALMEDICA",
-    "preco": 60.78,
-    "quantidade": 1,
-    "marca": "VO2",
-    "sabor": "Chocolate",
-    "peso": 0.03,
-    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/VO2%20WHEY%20BAR%20-%2030G/UND.%20-%20INTEGRALMEDICA",
-    "originalPreco": 60.78
   }
 ]

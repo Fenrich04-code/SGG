@@ -238,5 +238,15 @@
     "peso": 0.01,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20ULTRA%20FAST%20-%20100G%20-%20XPRO%20NUTRITION.jpg",
     "originalPreco": 25.9
+  },
+  {
+    "nome": "CREATINA MONOHIDRATADA - 300G - DUX NUTRITION",
+    "preco": 60.8,
+    "quantidade": 1,
+    "marca": "DUX NUTRITION",
+    "sabor": "Sem sabor",
+    "peso": 0.03,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20MONOHIDRATADA%20-%20300G%20-%20DUX%20NUTRITION.jpg",
+    "originalPreco": 60.8
   }
 ]

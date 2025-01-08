@@ -118,5 +118,15 @@
     "peso": 0.02,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20UNIVERSAL%20-%20200G%20-%20CREAPURE.jpg",
     "originalPreco": 48.16
+  },
+  {
+    "nome": "HI-CREATINE MICRONIZED - 150G - LEADER NUTRITION",
+    "preco": 55.12,
+    "quantidade": 1,
+    "marca": "LEADER NUTRITION",
+    "sabor": "Sem sabor",
+    "peso": 0.15,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/HI-CREATINE%20MICRONIZED%20-%20150G%20-%20LEADER%20NUTRITION.jpg",
+    "originalPreco": 55.12
   }
 ]

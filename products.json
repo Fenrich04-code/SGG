@@ -268,5 +268,15 @@
     "peso": 0.03,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20MONOHIDRATADA%20MICRONIZADA%20-%20300G%20-%20FTW.jpg",
     "originalPreco": 60.8
+  },
+  {
+    "nome": "CREATINA CAPSULAS - 120 CAPSULAS - MAX TITANIUM",
+    "preco": 58.32,
+    "quantidade": 1,
+    "marca": "MAX TITANIUM",
+    "sabor": "Sem sabor",
+    "peso": 0.12,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20CAPSULAS%20-%20120%20CAPSULAS%20-%20MAX%20TITANIUM.jpg",
+    "originalPreco": 58.32
   }
 ]

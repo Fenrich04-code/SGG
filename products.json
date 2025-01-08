@@ -88,5 +88,15 @@
     "peso": 0.6,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COQUETELEIRA DEGRADÊ - 600ML - MAX TITANIUM.jpg",
     "originalPreco": 19.9
+  },
+  {
+    "nome": "COQUETELEIRA SIMPLES - 600ML",
+    "preco": 14.9,
+    "quantidade": 1,
+    "marca": "SIMPLES",
+    "sabor": "COQUETELEIRA",
+    "peso": 0.6,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COQUETELEIRA%20SIMPLES%20-%20600ML.jpg",
+    "originalPreco": 14.9
   }
 ]

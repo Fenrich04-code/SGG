@@ -28,5 +28,15 @@
     "peso": 0.03,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DARK%20BAR%20-%2030G/UND.%20-%20DARKNESS.jpg",
     "originalPreco": 13.31
+  },
+  {
+    "nome": "POWER PROTEINBAR - 41G/UND. - MAX TITANIUM",
+    "preco": 5.27,
+    "quantidade": 1,
+    "marca": "MAX TITANIUM",
+    "sabor": "Chocolate",
+    "peso": 0.04,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/POWER%20PROTEINBAR%20-%2041G/UND.%20-%20MAX%20TITANIUM.jpg",
+    "originalPreco": 5.27
   }
 ]

@@ -198,5 +198,25 @@
     "peso": 0.03,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20MONOHYDRATE%20-%20300G%20-%20XPRO%20NUTRITION.jpg",
     "originalPreco": 47.19
+  },
+  {
+    "nome": "CREATINA TURBO - 300G - BLACK SKULL",
+    "preco": 44.9,
+    "quantidade": 1,
+    "marca": "BLACK SKULL",
+    "sabor": "Sem sabor",
+    "peso": 0.03,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20TURBO%20-%20300G%20-%20BLACK%20SKULL.jpg",
+    "originalPreco": 44.9
+  },
+  {
+    "nome": "CREATINA TURBO - 150G - BLACK SKULL",
+    "preco": 28.56,
+    "quantidade": 1,
+    "marca": "BLACK SKULL",
+    "sabor": "Sem sabor",
+    "peso": 0.15,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20TURBO%20-%20150G%20-%20BLACK%20SKULL.jpg",
+    "originalPreco": 28.56
   }
 ]

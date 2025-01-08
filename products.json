@@ -258,5 +258,15 @@
     "peso": 0.02,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20MUSCLE%20ENERGY%20-%20200G%20-%20INTEGRALMEDICA.jpg",
     "originalPreco": 119.54
+  },
+  {
+    "nome": "CREATINA MONOHIDRATADA MICRONIZADA - 300G - FTW",
+    "preco": 60.8,
+    "quantidade": 1,
+    "marca": "FTW",
+    "sabor": "Sem sabor",
+    "peso": 0.03,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20MONOHIDRATADA%20MICRONIZADA%20-%20300G%20-%20FTW.jpg",
+    "originalPreco": 60.8
   }
 ]

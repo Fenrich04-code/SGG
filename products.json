@@ -218,5 +218,25 @@
     "peso": 0.15,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20TURBO%20-%20150G%20-%20BLACK%20SKULL.jpg",
     "originalPreco": 28.56
+  },
+  {
+    "nome": "CREATINA DOUBLE FORCE - 150G - BODY ACTION",
+    "preco": 35.99,
+    "quantidade": 1,
+    "marca": "BODY ACTION",
+    "sabor": "Sem sabor",
+    "peso": 0.15,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20DOUBLE%20FORCE%20-%20150G%20-%20BODY%20ACTION.jpg",
+    "originalPreco": 35.99
+  },
+  {
+    "nome": "CREATINA ULTRA FAST - 100G - XPRO NUTRITION",
+    "preco": 25.9,
+    "quantidade": 1,
+    "marca": "XPRO NUTRITION",
+    "sabor": "Sem sabor",
+    "peso": 0.01,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20ULTRA%20FAST%20-%20100G%20-%20XPRO%20NUTRITION.jpg",
+    "originalPreco": 25.9
   }
 ]

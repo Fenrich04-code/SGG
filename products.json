@@ -1,15 +1,5 @@
 [
   {
-    "nome": "Creatina",
-    "preco": 197.40672,
-    "quantidade": 20,
-    "marca": "Integral Medica",
-    "sabor": "Cafeina",
-    "peso": 1,
-    "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/Creatina.jpg",
-    "originalPreco": 197.40672
-  },
-  {
     "nome": "PreTreino",
     "preco": 96.768,
     "quantidade": 50,

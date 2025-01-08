@@ -138,5 +138,25 @@
     "peso": 0.01,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20-%20100G%20-%20PROBIOTICA.jpg",
     "originalPreco": 44.9
+  },
+  {
+    "nome": "CREATINA - 300G - FULLIFE",
+    "preco": 76,
+    "quantidade": 1,
+    "marca": "FULLIFE",
+    "sabor": "Sem sabor",
+    "peso": 0.03,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20-%20300G%20-%20FULLIFE.jpg",
+    "originalPreco": 76
+  },
+  {
+    "nome": "CREATINA - 150G - FULLIFE",
+    "preco": 89,
+    "quantidade": 1,
+    "marca": "FULLIFE",
+    "sabor": "Sem sabor",
+    "peso": 0.15,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20-%20150G%20-%20FULLIFE.jpg",
+    "originalPreco": 89
   }
 ]

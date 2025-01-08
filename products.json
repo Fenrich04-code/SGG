@@ -98,5 +98,15 @@
     "peso": 0.6,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COQUETELEIRA%20SIMPLES%20-%20600ML.jpg",
     "originalPreco": 14.9
+  },
+  {
+    "nome": "GALÃO - 2L - FTW",
+    "preco": 22.9,
+    "quantidade": 1,
+    "marca": "FTW",
+    "sabor": "GALÃO",
+    "peso": 2,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/GALÃO - 2L - FTW.jpg",
+    "originalPreco": 22.9
   }
 ]

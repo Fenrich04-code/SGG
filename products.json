@@ -38,5 +38,15 @@
     "peso": 0.04,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/POWER%20PROTEINBAR%20-%2041G/UND.%20-%20MAX%20TITANIUM.jpg",
     "originalPreco": 5.27
+  },
+  {
+    "nome": "PROTEIN CRISP BAR - 45/UND. -  INTEGRALMEDICA",
+    "preco": 5.57,
+    "quantidade": 1,
+    "marca": "INTEGRALMEDICA",
+    "sabor": "Chocolate",
+    "peso": 0.04,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/PROTEIN%20CRISP%20BAR%20-%2045/UND.%20-%20%20INTEGRALMEDICA.jpg",
+    "originalPreco": 5.57
   }
 ]

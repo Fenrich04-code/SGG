@@ -128,5 +128,15 @@
     "peso": 0.15,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/HI-CREATINE%20MICRONIZED%20-%20150G%20-%20LEADER%20NUTRITION.jpg",
     "originalPreco": 55.12
+  },
+  {
+    "nome": "CREATINA - 100G - PROBIOTICA",
+    "preco": 44.9,
+    "quantidade": 1,
+    "marca": "PROBIOTICA",
+    "sabor": "Sem sabor",
+    "peso": 0.01,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20-%20100G%20-%20PROBIOTICA.jpg",
+    "originalPreco": 44.9
   }
 ]

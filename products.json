@@ -68,5 +68,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COLÁGENO HIDROLISADO - 90 CAPS - FITOWAY.jpg",
     "originalPreco": 78.47
+  },
+  {
+    "nome": "COQUETELEIRA - 600ML - BLACK SKULL",
+    "preco": 22,
+    "quantidade": 1,
+    "marca": "BLACK SKULL",
+    "sabor": "COQUETELEIRA",
+    "peso": 0.6,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COQUETELEIRA%20-%20600ML%20-%20BLACK%20SKULL.jpg",
+    "originalPreco": 22
   }
 ]

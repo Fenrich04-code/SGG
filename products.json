@@ -18,15 +18,6 @@
     "peso": 1,
     "imagem": "https://github.com/Fenrich04-code/SGG/raw/main/imagens/Pretreino.jpg",
     "originalPreco": 96.768
-  },
-  {
-    "nome": "Barrawhey1",
-    "preco": 19.9,
-    "quantidade": 10,
-    "marca": "MAX titânium",
-    "sabor": "padrao",
-    "peso": 80,
-    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/Barrawhey1.png",
-    "originalPreco": 19.9
   }
+
 ]

@@ -108,5 +108,15 @@
     "peso": 2,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/GALÃO - 2L - FTW.jpg",
     "originalPreco": 22.9
+  },
+  {
+    "nome": "CREATINA UNIVERSAL - 200G - CREAPURE",
+    "preco": 48.16,
+    "quantidade": 1,
+    "marca": "UNIVERSAL",
+    "sabor": "Sem sabor",
+    "peso": 0.02,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20UNIVERSAL%20-%20200G%20-%20CREAPURE.jpg",
+    "originalPreco": 48.16
   }
 ]

@@ -58,5 +58,15 @@
     "peso": 0.3,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COLÁGENO HIDROLISADO EM PÓ - 300G - FULLIFE.jpg",
     "originalPreco": 86.74
+  },
+  {
+    "nome": "COLÁGENO HIDROLISADO - 90 CAPS - FITOWAY",
+    "preco": 78.47,
+    "quantidade": 1,
+    "marca": "FITOWAY",
+    "sabor": "Colágeno",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COLÁGENO HIDROLISADO - 90 CAPS - FITOWAY.jpg",
+    "originalPreco": 78.47
   }
 ]

@@ -23,10 +23,20 @@
     "nome": "Barrawhey",
     "preco": 19.9,
     "quantidade": 10,
-    "marca": "MAX tit‚nium",
+    "marca": "MAX tit√¢nium",
     "sabor": "padrao",
     "peso": 80,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/SGG/imagens/Barrawhey.png",
+    "originalPreco": 19.9
+  },
+  {
+    "nome": "Barrawhey1",
+    "preco": 19.9,
+    "quantidade": 10,
+    "marca": "MAX tit‚nium",
+    "sabor": "padrao",
+    "peso": 80,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/Barrawhey1.png",
     "originalPreco": 19.9
   }
 ]

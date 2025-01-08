@@ -188,5 +188,15 @@
     "peso": 0.01,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20PUMP%20-%20100G%20-%20FULLIFE.jpg",
     "originalPreco": 89
+  },
+  {
+    "nome": "CREATINA MONOHYDRATE - 300G - XPRO NUTRITION",
+    "preco": 47.19,
+    "quantidade": 1,
+    "marca": "XPRO NUTRITION",
+    "sabor": "Sem sabor",
+    "peso": 0.03,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20MONOHYDRATE%20-%20300G%20-%20XPRO%20NUTRITION.jpg",
+    "originalPreco": 47.19
   }
 ]

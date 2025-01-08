@@ -38,5 +38,15 @@
     "peso": 0.05,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/ROCK%20CRACKER%20MONSTER%20-%2055G%20-%20ROCK%20PEANUT.jpg",
     "originalPreco": 12.96
+  },
+  {
+    "nome": "COLÁGENO HIDROLISADO - 120CAPS - FULLIFE",
+    "preco": 29.72,
+    "quantidade": 1,
+    "marca": "FULLIFE",
+    "sabor": "Colágeno",
+    "peso": 0.12,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COLÁGENO HIDROLISADO - 120CAPS - FULLIFE.jpg",
+    "originalPreco": 29.72
   }
 ]

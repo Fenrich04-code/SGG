@@ -40,33 +40,33 @@
     "originalPreco": 12.96
   },
   {
-    "nome": "COL¡GENO HIDROLISADO - 120CAPS - FULLIFE",
+    "nome": "COL√ÅGENO HIDROLISADO - 120CAPS - FULLIFE",
     "preco": 29.72,
     "quantidade": 1,
     "marca": "FULLIFE",
-    "sabor": "Col·geno",
+    "sabor": "Col√°geno",
     "peso": 0.12,
-    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COL¡GENO HIDROLISADO - 120CAPS - FULLIFE.jpg",
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COL√ÅGENO HIDROLISADO - 120CAPS - FULLIFE.jpg",
     "originalPreco": 29.72
   },
   {
-    "nome": "COL¡GENO HIDROLISADO EM P” - 300G - FULLIFE",
+    "nome": "COL√ÅGENO HIDROLISADO EM P√ì - 300G - FULLIFE",
     "preco": 86.74,
     "quantidade": 1,
     "marca": "FULLIFE",
-    "sabor": "Col·geno",
+    "sabor": "Col√°geno",
     "peso": 0.3,
-    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COL¡GENO HIDROLISADO EM P” - 300G - FULLIFE.jpg",
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COL√ÅGENO HIDROLISADO EM P√ì - 300G - FULLIFE.jpg",
     "originalPreco": 86.74
   },
   {
-    "nome": "COL¡GENO HIDROLISADO - 90 CAPS - FITOWAY",
+    "nome": "COL√ÅGENO HIDROLISADO - 90 CAPS - FITOWAY",
     "preco": 78.47,
     "quantidade": 1,
     "marca": "FITOWAY",
-    "sabor": "Col·geno",
+    "sabor": "Col√°geno",
     "peso": 0.9,
-    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COL¡GENO HIDROLISADO - 90 CAPS - FITOWAY.jpg",
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COL√ÅGENO HIDROLISADO - 90 CAPS - FITOWAY.jpg",
     "originalPreco": 78.47
   },
   {
@@ -80,13 +80,13 @@
     "originalPreco": 22
   },
   {
-    "nome": "COQUETELEIRA DEGRAD  - 600ML - MAX TITANIUM",
+    "nome": "COQUETELEIRA DEGRAD√ä - 600ML - MAX TITANIUM",
     "preco": 19.9,
     "quantidade": 1,
     "marca": "MAX TITANIUM",
     "sabor": "COQUETELEIRA",
     "peso": 0.6,
-    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COQUETELEIRA DEGRAD  - 600ML - MAX TITANIUM.jpg",
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COQUETELEIRA DEGRAD√ä - 600ML - MAX TITANIUM.jpg",
     "originalPreco": 19.9
   },
   {
@@ -100,13 +100,13 @@
     "originalPreco": 14.9
   },
   {
-    "nome": "GAL√O - 2L - FTW",
+    "nome": "GAL√ÉO - 2L - FTW",
     "preco": 22.9,
     "quantidade": 1,
     "marca": "FTW",
-    "sabor": "GAL√O",
+    "sabor": "GAL√ÉO",
     "peso": 2,
-    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/GAL√O - 2L - FTW.jpg",
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/GAL√ÉO - 2L - FTW.jpg",
     "originalPreco": 22.9
   },
   {
@@ -248,5 +248,15 @@
     "peso": 0.03,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20MONOHIDRATADA%20-%20300G%20-%20DUX%20NUTRITION.jpg",
     "originalPreco": 60.8
+  },
+  {
+    "nome": "CREATINA MUSCLE ENERGY - 200G - INTEGRALMEDICA",
+    "preco": 119.54,
+    "quantidade": 1,
+    "marca": "INTEGRALMEDICA",
+    "sabor": "Sem sabor",
+    "peso": 0.02,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA%20MUSCLE%20ENERGY%20-%20200G%20-%20INTEGRALMEDICA.jpg",
+    "originalPreco": 119.54
   }
 ]

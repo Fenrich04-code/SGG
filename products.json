@@ -28,5 +28,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/ISOXPROTEIN900GXPRO.jpg",
     "originalPreco": 60
+  },
+  {
+    "nome": "PROTEIN COMPLEX - 900G - NEW MILLEN",
+    "preco": 75,
+    "quantidade": 1,
+    "marca": "NEW MILLEN",
+    "sabor": "Chocolate",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/PROTEINCOMPLEX900GNEWMILLEN.jpg",
+    "originalPreco": 75
   }
 ]

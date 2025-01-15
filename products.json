@@ -118,5 +118,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DELICIOUS3WHEY900GFTW.jpg",
     "originalPreco": 169
+  },
+  {
+    "nome": "POLI COMPLEX - 30 UND. - NEW MILLEN",
+    "preco": 56.74,
+    "quantidade": 1,
+    "marca": "NEW MILLEN",
+    "sabor": "Sem sabor",
+    "peso": 0.3,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/POLICOMPLEX30UNDNEWMILLEN.jpg",
+    "originalPreco": 56.74
   }
 ]

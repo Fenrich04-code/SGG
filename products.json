@@ -248,5 +248,15 @@
     "peso": 0.15,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DIABOVERDE150GFTW.jpg",
     "originalPreco": 60.5
+  },
+  {
+    "nome": "NUCLEAR RUSH - 100G - BODY ACTION",
+    "preco": 31.12,
+    "quantidade": 1,
+    "marca": "BODY ACTION",
+    "sabor": "Guarana",
+    "peso": 0.1,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/NUCLEARRUSH100GBODYACTION.jpg",
+    "originalPreco": 31.12
   }
 ]

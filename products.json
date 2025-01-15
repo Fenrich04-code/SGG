@@ -98,5 +98,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/WHEY100PURE900GINTEGRALMEDICA.jpg",
     "originalPreco": 118.8
+  },
+  {
+    "nome": "BLEND PROTEIN MANSAO MAROMBA - 900G - FTW",
+    "preco": 79,
+    "quantidade": 1,
+    "marca": "FTW",
+    "sabor": "Chocolate",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/BLENDPROTEINMANSAOMAROMBA900GFTW.jpg",
+    "originalPreco": 79
   }
 ]

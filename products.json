@@ -178,5 +178,15 @@
     "peso": 120,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/TSEK120GPOWERSUPPLEMENTS.jpg",
     "originalPreco": 60
+  },
+  {
+    "nome": "SINEFLEX - 120CAPS - POWER SUPPLEMENTS",
+    "preco": 66.41,
+    "quantidade": 1,
+    "marca": "POWER SUPPLEMENTS",
+    "sabor": "Sem sabor",
+    "peso": 120,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/SINEFLEX120CAPSPOWERSUPPLEMENTS.jpg",
+    "originalPreco": 66.41
   }
 ]

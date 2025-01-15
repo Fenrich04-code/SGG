@@ -158,5 +158,15 @@
     "peso": 0.6,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DIABOVERDETHERMO60CAPSFTW.jpg",
     "originalPreco": 40
+  },
+  {
+    "nome": "CAFEINA FULLFLAME - 120 CAPS - FULLLIFE",
+    "preco": 37,
+    "quantidade": 1,
+    "marca": "FULLIFE",
+    "sabor": "Sem sabor",
+    "peso": 0.12,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CAFEINAFULLFLAME120CAPSFULLLIFE.jpg",
+    "originalPreco": 37
   }
 ]

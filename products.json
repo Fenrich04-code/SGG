@@ -8,5 +8,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/TOPWHEY3W900GMAXTITANIUM.jpg",
     "originalPreco": 157.27
+  },
+  {
+    "nome": "WHEY CARNIBOL - 900G - INTEGRAL MEDICA",
+    "preco": 150,
+    "quantidade": 1,
+    "marca": "INTEGRAL MEDICA",
+    "sabor": "Sem sabor",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/WHEYCARNIBOL900GINTEGRALMEDICA.jpg",
+    "originalPreco": 150
   }
 ]

@@ -58,5 +58,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/WHEYRT900GFULLIFE.jpg",
     "originalPreco": 90
+  },
+  {
+    "nome": "WHEY 100% HD - 900G - BLACK SKULL",
+    "preco": 95,
+    "quantidade": 1,
+    "marca": "BLACK SKULL",
+    "sabor": "Sem sabor",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/WHEY100HD900GBLACKSKULL.jpg",
+    "originalPreco": 95
   }
 ]

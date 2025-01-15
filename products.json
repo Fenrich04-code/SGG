@@ -78,5 +78,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/WHEYPROTEINCONCENTRADO900GDUXNUTRITION.jpg",
     "originalPreco": 164
+  },
+  {
+    "nome": "100% WHEY - 900G - MAX TITANIUM",
+    "preco": 114,
+    "quantidade": 1,
+    "marca": "MAX TITANIUM",
+    "sabor": "Cookies",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/100WHEY900GMAXTITANIUM.jpg",
+    "originalPreco": 114
   }
 ]

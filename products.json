@@ -218,5 +218,15 @@
     "peso": 152,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DILATEXEXTRAPUMP152CAPSPOWERSUPPLEMENTS.jpg",
     "originalPreco": 89
+  },
+  {
+    "nome": "DIABO VERDE THERMO CRAZY - 60 CAPS - FTW",
+    "preco": 100,
+    "quantidade": 1,
+    "marca": "FTW",
+    "sabor": "Sem sabor",
+    "peso": 60,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DIABOVERDETHERMOCRAZY60CAPSFTW.jpg",
+    "originalPreco": 100
   }
 ]

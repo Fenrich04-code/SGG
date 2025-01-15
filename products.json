@@ -108,5 +108,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/BLENDPROTEINMANSAOMAROMBA900GFTW.jpg",
     "originalPreco": 79
+  },
+  {
+    "nome": "DELICIOUS 3 WHEY - 900G - FTW",
+    "preco": 169,
+    "quantidade": 1,
+    "marca": "FTW",
+    "sabor": "Cookies",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DELICIOUS3WHEY900GFTW.jpg",
+    "originalPreco": 169
   }
 ]

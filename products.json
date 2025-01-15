@@ -18,5 +18,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/WHEYCARNIBOL900GINTEGRALMEDICA.jpg",
     "originalPreco": 150
+  },
+  {
+    "nome": "ISO X PROTEIN - 900G - X PRO",
+    "preco": 60,
+    "quantidade": 1,
+    "marca": "XPRO NUTRITION",
+    "sabor": "Sem sabor",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/ISOXPROTEIN900GXPRO.jpg",
+    "originalPreco": 60
   }
 ]

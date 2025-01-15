@@ -228,5 +228,15 @@
     "peso": 60,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DIABOVERDETHERMOCRAZY60CAPSFTW.jpg",
     "originalPreco": 100
+  },
+  {
+    "nome": "DIABO VERDE - 300G - FTW",
+    "preco": 47.3,
+    "quantidade": 1,
+    "marca": "FTW",
+    "sabor": "Sem sabor",
+    "peso": 0.3,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DIABOVERDE300GFTW.jpg",
+    "originalPreco": 47.3
   }
 ]

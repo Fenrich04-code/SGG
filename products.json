@@ -208,5 +208,15 @@
     "peso": 60,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/LIPO6BLACK60CAPSNUTREX.jpg",
     "originalPreco": 110.5
+  },
+  {
+    "nome": "DILATEX EXTRA PUMP - 152 CAPS - POWER SUPPLEMENTS",
+    "preco": 89,
+    "quantidade": 1,
+    "marca": "POWER SUPPLEMENTS",
+    "sabor": "Sem sabor",
+    "peso": 152,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DILATEXEXTRAPUMP152CAPSPOWERSUPPLEMENTS.jpg",
+    "originalPreco": 89
   }
 ]

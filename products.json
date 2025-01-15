@@ -238,5 +238,15 @@
     "peso": 0.3,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DIABOVERDE300GFTW.jpg",
     "originalPreco": 47.3
+  },
+  {
+    "nome": "DIABO VERDE - 150G - FTW",
+    "preco": 60.5,
+    "quantidade": 1,
+    "marca": "FTW",
+    "sabor": "Sem sabor",
+    "peso": 0.15,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DIABOVERDE150GFTW.jpg",
+    "originalPreco": 60.5
   }
 ]

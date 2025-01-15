@@ -188,5 +188,25 @@
     "peso": 120,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/SINEFLEX120CAPSPOWERSUPPLEMENTS.jpg",
     "originalPreco": 66.41
+  },
+  {
+    "nome": "SINEFLEX HARDCORE - 120CAPS - POWER SUPPLEMENTS",
+    "preco": 65,
+    "quantidade": 1,
+    "marca": "POWER SUPPLEMENTS",
+    "sabor": "Sem sabor",
+    "peso": 120,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/SINEFLEXHARDCORE120CAPSPOWERSUPPLEMENTS.jpg",
+    "originalPreco": 65
+  },
+  {
+    "nome": "LIPO6 BLACK - 60 - CAPS - NUTREX",
+    "preco": 110.5,
+    "quantidade": 1,
+    "marca": "NUTREX",
+    "sabor": "Sem sabor",
+    "peso": 60,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/LIPO6BLACK60CAPSNUTREX.jpg",
+    "originalPreco": 110.5
   }
 ]

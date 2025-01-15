@@ -88,5 +88,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/100WHEY900GMAXTITANIUM.jpg",
     "originalPreco": 114
+  },
+  {
+    "nome": "WHEY 100% PURE - 900G - INTEGRAL MEDICA",
+    "preco": 118.8,
+    "quantidade": 1,
+    "marca": "INTEGRAL MEDICA",
+    "sabor": "Chocolate",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/WHEY100PURE900GINTEGRALMEDICA.jpg",
+    "originalPreco": 118.8
   }
 ]

@@ -138,5 +138,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/MULTIMAXCOMPLEX90CAPSMAXTITANIUM.jpg",
     "originalPreco": 50
+  },
+  {
+    "nome": "MULTI VITAMINICO ESPORTIVO - 90 CAPS - DUX",
+    "preco": 70,
+    "quantidade": 1,
+    "marca": "DUX NUTRITION",
+    "sabor": "Sem sabor",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/MULTIVITAMINICOESPORTIVO90CAPSDUX.jpg",
+    "originalPreco": 70
   }
 ]

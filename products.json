@@ -48,5 +48,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/WHEYBLENDPROTEIN900GFTW.jpg",
     "originalPreco": 73.4
+  },
+  {
+    "nome": "WHEY RT - 900G - FULLIFE",
+    "preco": 90,
+    "quantidade": 1,
+    "marca": "FULLIFE",
+    "sabor": "Chocolate",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/WHEYRT900GFULLIFE.jpg",
+    "originalPreco": 90
   }
 ]

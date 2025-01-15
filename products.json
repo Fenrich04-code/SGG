@@ -68,5 +68,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/WHEY100HD900GBLACKSKULL.jpg",
     "originalPreco": 95
+  },
+  {
+    "nome": "WHEY PROTEIN CONCENTRADO - 900G - DUX NUTRITION",
+    "preco": 164,
+    "quantidade": 1,
+    "marca": "DUX NUTRITION",
+    "sabor": "Sem sabor",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/WHEYPROTEINCONCENTRADO900GDUXNUTRITION.jpg",
+    "originalPreco": 164
   }
 ]

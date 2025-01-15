@@ -168,5 +168,15 @@
     "peso": 0.12,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CAFEINAFULLFLAME120CAPSFULLLIFE.jpg",
     "originalPreco": 37
+  },
+  {
+    "nome": "T SEK - 120G - POWER SUPPLEMENTS",
+    "preco": 60,
+    "quantidade": 1,
+    "marca": "POWER SUPPLEMENTS",
+    "sabor": "Sem sabor",
+    "peso": 120,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/TSEK120GPOWERSUPPLEMENTS.jpg",
+    "originalPreco": 60
   }
 ]

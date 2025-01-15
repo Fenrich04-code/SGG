@@ -148,5 +148,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/MULTIVITAMINICOESPORTIVO90CAPSDUX.jpg",
     "originalPreco": 70
+  },
+  {
+    "nome": "DIABO VERDE THERMO - 60 CAPS - FTW",
+    "preco": 40,
+    "quantidade": 1,
+    "marca": "FTW",
+    "sabor": "Sem sabor",
+    "peso": 0.6,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DIABOVERDETHERMO60CAPSFTW.jpg",
+    "originalPreco": 40
   }
 ]

@@ -38,5 +38,15 @@
     "peso": 0.9,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/PROTEINCOMPLEX900GNEWMILLEN.jpg",
     "originalPreco": 75
+  },
+  {
+    "nome": "WHEY BLEND PROTEIN - 900G - FTW",
+    "preco": 73.4,
+    "quantidade": 1,
+    "marca": "FTW",
+    "sabor": "Chocolate",
+    "peso": 0.9,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/WHEYBLENDPROTEIN900GFTW.jpg",
+    "originalPreco": 73.4
   }
 ]

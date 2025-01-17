@@ -368,5 +368,25 @@
     "peso": 0.2,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAUNIVERSAL200GCREAPURE.jpg",
     "originalPreco": 38.5
+  },
+  {
+    "nome": "HI-CREATINE MICRONIZED - 150G - LEADER NUTRION",
+    "preco": 67,
+    "quantidade": 1,
+    "marca": "LEADER NUTRITION",
+    "sabor": "Sem sabor",
+    "peso": 0.15,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/HICREATINEMICRONIZED150GLEADERNUTRION.jpg",
+    "originalPreco": 67
+  },
+  {
+    "nome": "CREATINA - 100G - PROBIOTICA",
+    "preco": 45,
+    "quantidade": 1,
+    "marca": "PROBIOTICA",
+    "sabor": "Sem sabor",
+    "peso": 0.1,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA100GPROBIOTICA.jpg",
+    "originalPreco": 45
   }
 ]

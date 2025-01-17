@@ -328,5 +328,15 @@
     "peso": 0.3,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/FRITZAGGRESSIVE300GEVOCOMMANDER.jpg",
     "originalPreco": 104
+  },
+  {
+    "nome": "PASTA DE AMENDOIM - 650G - DR. PEANUT",
+    "preco": 26,
+    "quantidade": 1,
+    "marca": "DR. PEANUT",
+    "sabor": "Variados",
+    "peso": 0.65,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/PASTADEAMENDOIM650GDRPEANUT.jpg",
+    "originalPreco": 26
   }
 ]

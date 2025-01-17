@@ -538,5 +538,15 @@
     "peso": 0.15,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAHARDCORE150GINTEGRALMEDICA.jpg",
     "originalPreco": 58
+  },
+  {
+    "nome": "COQUETELEIRA - 600ML - BLACK SKULL",
+    "preco": 22,
+    "quantidade": 1,
+    "marca": "BLACK SKULL",
+    "sabor": "Sem sabor",
+    "peso": 0.6,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COQUETELEIRA600MLBLACKSKULL.jpg",
+    "originalPreco": 22
   }
 ]

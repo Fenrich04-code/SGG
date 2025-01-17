@@ -528,5 +528,15 @@
     "peso": 0.12,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINACAPSULASMONOHIDRATADA120CAPSMAXTITANIUM.jpg",
     "originalPreco": 54
+  },
+  {
+    "nome": "CREATINA HARDCORE - 150G - INTEGRAL MEDICA",
+    "preco": 58,
+    "quantidade": 1,
+    "marca": "INTEGRAL MEDICA",
+    "sabor": "Sem sabor",
+    "peso": 0.15,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAHARDCORE150GINTEGRALMEDICA.jpg",
+    "originalPreco": 58
   }
 ]

@@ -618,5 +618,15 @@
     "peso": 0.3,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/VO2WHEYBAR30GUNDINTEGRALMEDICA.jpg",
     "originalPreco": 11.75
+  },
+  {
+    "nome": "DARK BAR - 30G/UND. - DARKNESS",
+    "preco": 6,
+    "quantidade": 1,
+    "marca": "DARKNESS",
+    "sabor": "Chocolate Branco",
+    "peso": 0.3,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/DARKBAR30GUNDDARKNESS.jpg",
+    "originalPreco": 6
   }
 ]

@@ -598,5 +598,25 @@
     "peso": 0.3,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COLAGENOHIDROLISADOEMPO300GFULLIFE.jpg",
     "originalPreco": 87
+  },
+  {
+    "nome": "COLAGENO HIDROLISADO - 90CAPS - FITOWAY",
+    "preco": 78.5,
+    "quantidade": 1,
+    "marca": "FITOWAY",
+    "sabor": "Sem sabor",
+    "peso": 90,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COLAGENOHIDROLISADO90CAPSFITOWAY.jpg",
+    "originalPreco": 78.5
+  },
+  {
+    "nome": "VO2 WHEY BAR - 30G/UND. - INTEGRALMEDICA",
+    "preco": 11.75,
+    "quantidade": 1,
+    "marca": "INTEGRAL MEDICA",
+    "sabor": "Chocolate",
+    "peso": 0.3,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/VO2WHEYBAR30GUNDINTEGRALMEDICA.jpg",
+    "originalPreco": 11.75
   }
 ]

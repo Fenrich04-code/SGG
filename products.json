@@ -408,5 +408,15 @@
     "peso": 0.15,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAMONOHIDRATADA150GMAXTITANIUM.jpg",
     "originalPreco": 58.3
+  },
+  {
+    "nome": "CREATINA MONOHIDRATADA - 300G - MAX TITANIUM",
+    "preco": 85.1,
+    "quantidade": 1,
+    "marca": "MAX TITANIUM",
+    "sabor": "Sem sabor",
+    "peso": 0.3,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAMONOHIDRATADA300GMAXTITANIUM.jpg",
+    "originalPreco": 85.1
   }
 ]

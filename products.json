@@ -458,5 +458,15 @@
     "peso": 0.15,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINATURBO150GBLACKSKULL.jpg",
     "originalPreco": 39
+  },
+  {
+    "nome": "CREATINA DOUBLE FORCE - 150G - BODY ACTION",
+    "preco": 29,
+    "quantidade": 1,
+    "marca": "BODY ACTION",
+    "sabor": "Sem sabor",
+    "peso": 0.15,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINADOUBLEFORCE150GBODYACTION.jpg",
+    "originalPreco": 29
   }
 ]

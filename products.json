@@ -578,5 +578,25 @@
     "peso": 2,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/GALAO2LFTW.jpg",
     "originalPreco": 33.25
+  },
+  {
+    "nome": "COLAGENO HIDROLISADO - 120CAPS - FULLIFE",
+    "preco": 30,
+    "quantidade": 1,
+    "marca": "FULLIFE",
+    "sabor": "Sem sabor",
+    "peso": 120,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COLAGENOHIDROLISADO120CAPSFULLIFE.jpg",
+    "originalPreco": 30
+  },
+  {
+    "nome": "COLAGENO HIDROLISADO EM PO - 300G - FULLIFE",
+    "preco": 87,
+    "quantidade": 1,
+    "marca": "FULLIFE",
+    "sabor": "Sem sabor",
+    "peso": 0.3,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COLAGENOHIDROLISADOEMPO300GFULLIFE.jpg",
+    "originalPreco": 87
   }
 ]

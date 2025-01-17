@@ -358,5 +358,15 @@
     "peso": 3,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/HIPERCALORICODELICIOUSMASS3KGFTW.jpg",
     "originalPreco": 72
+  },
+  {
+    "nome": "CREATINA UNIVERSAL - 200G - CREAPURE",
+    "preco": 38.5,
+    "quantidade": 1,
+    "marca": "UNIVERSAL",
+    "sabor": "Sem sabor",
+    "peso": 0.2,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAUNIVERSAL200GCREAPURE.jpg",
+    "originalPreco": 38.5
   }
 ]

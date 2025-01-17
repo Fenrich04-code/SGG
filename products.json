@@ -638,5 +638,15 @@
     "peso": 0.41,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/POWERPROTEINBAR41GUNDMAXTITANIUM.jpg",
     "originalPreco": 8
+  },
+  {
+    "nome": "PROTEIN CRISP BAR - 45G/UND. - INTEGRAL MEDICA",
+    "preco": 8.5,
+    "quantidade": 1,
+    "marca": "INTEGRAL MEDICA",
+    "sabor": "Morango",
+    "peso": 0.45,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/PROTEINCRISPBAR45GUNDINTEGRALMEDICA.jpg",
+    "originalPreco": 8.5
   }
 ]

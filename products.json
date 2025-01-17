@@ -298,5 +298,15 @@
     "peso": 0.2,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/PREWORKOUTC4WOMAN200GNEWMILLEN.jpg",
     "originalPreco": 78
+  },
+  {
+    "nome": "4 PUMP PRE WORKOUT - 100G - X PRO",
+    "preco": 50,
+    "quantidade": 1,
+    "marca": "XPRO NUTRITION",
+    "sabor": "Maca Verde",
+    "peso": 0.1,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/4PUMPPREWORKOUT100GXPRO.jpg",
+    "originalPreco": 50
   }
 ]

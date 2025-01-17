@@ -318,5 +318,15 @@
     "peso": 0.1,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/PREWORKOUTC4THECHOSENONE200GNEWMILLEN.jpg",
     "originalPreco": 63.26
+  },
+  {
+    "nome": "FRITZ AGGRESSIVE - 300G - EVO COMMANDER",
+    "preco": 104,
+    "quantidade": 1,
+    "marca": "EVO COMMANDER",
+    "sabor": "Uva",
+    "peso": 0.3,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/FRITZAGGRESSIVE300GEVOCOMMANDER.jpg",
+    "originalPreco": 104
   }
 ]

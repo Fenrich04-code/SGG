@@ -288,5 +288,15 @@
     "peso": 0.22,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/PREWORKOUTC4CAFFEINEFREE220GNEWMILLEN.jpg",
     "originalPreco": 73.71
+  },
+  {
+    "nome": "PRE WORKOUT C4 WOMAN - 200G - NEW MILLEN",
+    "preco": 78,
+    "quantidade": 1,
+    "marca": "NEW MILLEN",
+    "sabor": "Frutas Vermelhas",
+    "peso": 0.2,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/PREWORKOUTC4WOMAN200GNEWMILLEN.jpg",
+    "originalPreco": 78
   }
 ]

@@ -548,5 +548,15 @@
     "peso": 0.6,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COQUETELEIRA600MLBLACKSKULL.jpg",
     "originalPreco": 22
+  },
+  {
+    "nome": "COQUETELEIRA DEGRADE - 600ML - MAX TITANIUM",
+    "preco": 20,
+    "quantidade": 1,
+    "marca": "MAX TITANIUM",
+    "sabor": "Sem sabor",
+    "peso": 0.6,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COQUETELEIRADEGRADE600MLMAXTITANIUM.jpg",
+    "originalPreco": 20
   }
 ]

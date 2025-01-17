@@ -308,5 +308,15 @@
     "peso": 0.1,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/4PUMPPREWORKOUT100GXPRO.jpg",
     "originalPreco": 50
+  },
+  {
+    "nome": "PRE WORKOUT C4 THE CHOSEN ONE - 200G - NEW MILLEN",
+    "preco": 63.26,
+    "quantidade": 1,
+    "marca": "NEW MILLEN",
+    "sabor": "Limao",
+    "peso": 0.1,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/PREWORKOUTC4THECHOSENONE200GNEWMILLEN.jpg",
+    "originalPreco": 63.26
   }
 ]

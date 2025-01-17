@@ -488,5 +488,25 @@
     "peso": 0.3,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAMONOHIDRATADA300GDUXNUTRITION.jpg",
     "originalPreco": 125
+  },
+  {
+    "nome": "CREATINA 100% PURE - 300G - ABSOLUT NUTRITION",
+    "preco": 79,
+    "quantidade": 1,
+    "marca": "ABSOLUT NUTRITION",
+    "sabor": "Sem sabor",
+    "peso": 0.3,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA100PURE300GABSOLUTNUTRITION.jpg",
+    "originalPreco": 79
+  },
+  {
+    "nome": "CREATINE MUSCLE ENERGY - 200G - INTEGRAL MEDICA",
+    "preco": 162,
+    "quantidade": 1,
+    "marca": "INTEGRAL MEDICA",
+    "sabor": "Sem sabor",
+    "peso": 0.2,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINEMUSCLEENERGY200GINTEGRALMEDICA.jpg",
+    "originalPreco": 162
   }
 ]

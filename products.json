@@ -284,7 +284,7 @@
     "preco": 73.71,
     "quantidade": 1,
     "marca": "NEW MILLEN",
-    "sabor": "Lim„o",
+    "sabor": "Lim√£o",
     "peso": 0.22,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/PREWORKOUTC4CAFFEINEFREE220GNEWMILLEN.jpg",
     "originalPreco": 73.71
@@ -398,5 +398,15 @@
     "peso": 0.3,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINA300GFULLIFE.jpg",
     "originalPreco": 76
+  },
+  {
+    "nome": "CREATINA MONOHIDRATADA - 150G - MAX TITANIUM",
+    "preco": 58.3,
+    "quantidade": 1,
+    "marca": "MAX TITANIUM",
+    "sabor": "Sem sabor",
+    "peso": 0.15,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAMONOHIDRATADA150GMAXTITANIUM.jpg",
+    "originalPreco": 58.3
   }
 ]

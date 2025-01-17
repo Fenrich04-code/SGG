@@ -468,5 +468,25 @@
     "peso": 0.15,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINADOUBLEFORCE150GBODYACTION.jpg",
     "originalPreco": 29
+  },
+  {
+    "nome": "CREATINA ULTRA FAST - 100G - XPRO NUTRITION",
+    "preco": 23,
+    "quantidade": 1,
+    "marca": "XPRO NUTRITION",
+    "sabor": "Sem sabor",
+    "peso": 0.1,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAULTRAFAST100GXPRONUTRITION.jpg",
+    "originalPreco": 23
+  },
+  {
+    "nome": "CREATINA MONOHIDRATADA - 300G - DUX NUTRITION",
+    "preco": 125,
+    "quantidade": 1,
+    "marca": "DUX NUTRITION",
+    "sabor": "Sem sabor",
+    "peso": 0.3,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAMONOHIDRATADA300GDUXNUTRITION.jpg",
+    "originalPreco": 125
   }
 ]

@@ -648,5 +648,15 @@
     "peso": 0.45,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/PROTEINCRISPBAR45GUNDINTEGRALMEDICA.jpg",
     "originalPreco": 8.5
+  },
+  {
+    "nome": "ROCK CRACKER MONSTER - 55G - ROCK PEANUT",
+    "preco": 9,
+    "quantidade": 1,
+    "marca": "Rock",
+    "sabor": "Variados",
+    "peso": 0.55,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/ROCKCRACKERMONSTER55GROCKPEANUT.jpg",
+    "originalPreco": 9
   }
 ]

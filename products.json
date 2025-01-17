@@ -418,5 +418,25 @@
     "peso": 0.3,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAMONOHIDRATADA300GMAXTITANIUM.jpg",
     "originalPreco": 85.1
+  },
+  {
+    "nome": "CREATINA PUMP - 100G - FULLIFE",
+    "preco": 40,
+    "quantidade": 1,
+    "marca": "FULLIFE",
+    "sabor": "Sem sabor",
+    "peso": 0.1,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAPUMP100GFULLIFE.jpg",
+    "originalPreco": 40
+  },
+  {
+    "nome": "CREATINA MONOHYDRATE - 300G - XPRO NUTRITION",
+    "preco": 40,
+    "quantidade": 1,
+    "marca": "XPRO NUTRITION",
+    "sabor": "Sem sabor",
+    "peso": 0.3,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/CREATINAMONOHYDRATE300GXPRONUTRITION.jpg",
+    "originalPreco": 40
   }
 ]

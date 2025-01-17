@@ -558,5 +558,25 @@
     "peso": 0.6,
     "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COQUETELEIRADEGRADE600MLMAXTITANIUM.jpg",
     "originalPreco": 20
+  },
+  {
+    "nome": "COQUETELEIRA SIMPLES - 600ML",
+    "preco": 12,
+    "quantidade": 1,
+    "marca": "SIMPLES",
+    "sabor": "Sem sabor",
+    "peso": 0.6,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/COQUETELEIRASIMPLES600ML.jpg",
+    "originalPreco": 12
+  },
+  {
+    "nome": "GALAO - 2L - FTW",
+    "preco": 33.25,
+    "quantidade": 1,
+    "marca": "FTW",
+    "sabor": "Sem sabor",
+    "peso": 2,
+    "imagem": "https://raw.githubusercontent.com/Fenrich04-code/SGG/main/imagens/GALAO2LFTW.jpg",
+    "originalPreco": 33.25
   }
 ]
